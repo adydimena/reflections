@@ -1,0 +1,19 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Becuase diff or FC can compare two files and output the difference
+between them and then it is easy for the developer to find bugs
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Having the ability to see the file history helps any developer to track
+old methodologies or logic used in any older files and applying them
+in a current file
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Goodle Docs was not created to develop code and the auto-save make sense, however if commit in Git was automatic the user may get many files that does not compile and the history would be so big that it would be hard to see which commit is which
+How can you use the commands git log and git diff to view the history of files?
+by using the git log we can see the history of all commits (each commit have it own comment) and with git diff we can se the difference beteween them
+How might using version control make you more confident to make changes that could break something?
+because with checkout each previous code can be tested and with git diff each files can be compared
+Now that you have your workspace set up, what do you want to try using Git for?
+Git and github are used in many company, so I want to be proeficient, also I will help me in my own projects
+What happens when you initialize a repository? Why do you need to do it?
+We need to initialize a respository so the folder is considered a git respository
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the directory is the folder that hasst been added to git yet, staging area is the location where the files or diroctory lives before been commited and repository is the git folder
